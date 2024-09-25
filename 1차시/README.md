@@ -1,5 +1,5 @@
 # GET IT SW교육 Node.js
-## 1차시_개발환경 세팅
+## 1차시_Node 시작하기
 > 기간 : 24.09.26~24.09.27
 
 ### 🗂️1차시 자료🗂️
@@ -8,20 +8,29 @@
 👉자료를 다운 받은 후 수강해주세요!
 
 ### 🎞️1차시 강의🎞️
-[![Video Label](http://img.youtube.com/vi/유튜브 아이디/0.jpg)](https://youtu.be/유튜브 아이디)
+[![Video Label](http://img.youtube.com/vi/woF3YYv_jfw/0.jpg)](https://youtu.be/woF3YYv_jfw)
 
 👉위 이미지를 누르면 강의를 들을 수 있습니다.
 
 ---
 
 ### 🚀목차🚀
-1. Node.js 설치하기
-2. Node 애플리케이션 생성 및 실행
+1. Node 란?
+2. 왜 Node?
+3. 개발 환경 설정
 
 ---
 
 ### 🌿Node.js
 : 웹 브라우저 바깥에서 자바스크립트 코드를 실행할 수 있는 JavaScript 런타임 환경
+
+> **JavaScript**란?
+>> 프로그래밍 언어
+
+> **런타임**
+>> 특정 언어로 만든 프로그램을 실행할 수 있는 환경
+
+**🪄Node.js는 JavaScript 프로그램을 컴퓨터에서 실행할 수 있게 해주는 도구🪄**
 
 ---
 
