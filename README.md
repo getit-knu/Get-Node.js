@@ -18,4 +18,4 @@
 ### 🔥과제 제출하는 곳 
 👉 6기 노션 > SW과제제출 > React.js > 해당 차시 > 본인이름 > 과제제출란 <br/>
 
-[6기 SW 과제제출 링크](https://www.notion.so/SW-8502eeef321b43e2ad13ece0f626be33)
+👉 [6기 SW 과제제출 링크](https://www.notion.so/SW-8502eeef321b43e2ad13ece0f626be33)
