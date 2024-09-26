@@ -1,14 +1,14 @@
 # GET IT SW교육 Node.js
-## 1차시_Node 시작하기
-> 기간 : 24.09.26~24.09.27
+## 2차시_Node 시작하기
+> 기간 : 24.09.28~24.10.01
 
-### 🗂️1차시 자료🗂️
-[Node.js 1차시 자료](https://github.com/getit-knu/Get-Node.js/blob/main/1%EC%B0%A8%EC%8B%9C/GETIT%205%E1%84%80%E1%85%B5%20SW%20Node%E1%84%80%E1%85%AD%E1%84%8B%E1%85%B2%E1%86%A8%201%E1%84%8E%E1%85%A1%E1%84%89%E1%85%B5.pdf)
+### 🗂️2차시 자료🗂️
+[Node.js 2차시 자료](https://github.com/getit-knu/Get-Node.js/blob/main/2%EC%B0%A8%EC%8B%9C/GETIT%205%EA%B8%B0%20SW%20Node%EA%B5%90%EC%9C%A1%202%EC%B0%A8%EC%8B%9C.pdf)
 
 👉자료를 다운 받은 후 수강해주세요!
 
-### 🎞️1차시 강의🎞️
-[![Video Label](http://img.youtube.com/vi/woF3YYv_jfw/0.jpg)](https://youtu.be/woF3YYv_jfw)
+### 🎞️2차시 강의🎞️
+[![Video Label](http://img.youtu.be/oljeeWK4rOQ/0.jpg)](https://youtu.be/oljeeWK4rOQ)
 
 👉위 이미지를 누르면 강의를 들을 수 있습니다.
 
