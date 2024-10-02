@@ -3,11 +3,12 @@
 > 기간 : 24.10.02~24.10.05
 
 ### 🗂️3차시 자료🗂️
-[Node.js 3차시 자료]()
+[Node.js 3차시 자료](https://github.com/getit-knu/Get-Node.js/blob/main/3%EC%B0%A8%EC%8B%9C/GETIT%205%EA%B8%B0%20SW%20Node%EA%B5%90%EC%9C%A1%203%EC%B0%A8%EC%8B%9C.pdf)
 
 👉자료를 다운 받은 후 수강해주세요!
 
 ### 🎞️3차시 강의🎞️
+[![Video Label](http://img.youtube.com/vi/KuCTgat9k2U/0.jpg)](https://youtu.be/KuCTgat9k2U)
 
 👉위 이미지를 누르면 강의를 들을 수 있습니다.
 
