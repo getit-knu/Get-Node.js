@@ -104,6 +104,62 @@ res.writeHead(200, {'Content-Type': 'text/html; charset=utf-8'});
 res.end(`${session[cookies.session].name}님 안녕하세요`);
 ```
 
+**최종 코드**
+```js
+
+const http = require('http');
+const fs = require('fs');
+const url = require('url');
+const qs = require('querystring');
+const { error } = require('console');
+
+const parseCookies = (cookie = '') =>
+    cookie
+        .split(';')
+        .map(v => v.split('='))
+        .map(([k, ...vs]) => [k, vs.join('=')])
+        .reduce((acc, [k, v]) => {
+            acc[k.trim()] = decodeURIComponent(v);
+            return acc;
+        }, {});
+
+const session = {}; // 세션을 저장할 객체
+
+http.createServer((req, res) => {
+    const cookies = parseCookies(req.headers.cookie);
+    if(req.url.startsWith('/login')) { //  주소가 /login으로 시작하는 경우
+        const { query } = url.parse(req.url); // url을 파싱 query를 가져옴
+        const { name } = qs.parse(query); // querystring을 객체로 변환
+        const expires = new Date(); // 현재 시간
+        expires.setMinutes(expires.getMinutes() + 5); // 현재시간 + 5분 -> 만료시간
+        const randomInt = +new Date(); // 세션에 사용할 랜덤 숫자
+        session[randomInt] = {
+            name,
+            expires,
+        };
+        res.writeHead(302, {
+            Location: '/',
+            'Set-Cookie': `session=${randomInt}; Expires=${expires.toGMTString()}; HttpOnly; Path=/`,
+
+        });
+        res.end();
+    } else if(cookies.session && session[cookies.session].expires > new Date()) { // 쿠키가 있는 경우, 만료 기간이 지나지 않았다면
+        res.writeHead(200, {'Content-Type': 'text/html; charset=utf-8'});
+        res.end(`${session[cookies.session].name}님 안녕하세요`);
+    } else { // 쿠키가 없는 경우
+        fs.readFile('./4-2-2.html', (err, data) => {
+            if (err) {
+                throw err;
+            }
+            res.end(data);
+        });
+    }
+}).listen(8084, () => {
+    console.log('http://localhost:8084/');
+    console.log('8084번 포트에서 서버 대기 중입니다.');
+});
+```
+
 ---
 
 #### 03. https와 http2
