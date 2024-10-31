@@ -14,8 +14,7 @@
 |1차시|개발환경 세팅|24.09.26 ~ 24.09.27 (23:59)|[1차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/1%EC%B0%A8%EC%8B%9C)|
 |2차시|JS 다시보기|24.09.28 ~ 24.10.01 (42:42)|[2차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/2%EC%B0%A8%EC%8B%9C)|
 |3차시|Node 기능 알아보기|24.10.02 ~ 24.10.05 (1:16:30)|[3차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/3%EC%B0%A8%EC%8B%9C)|
-|4차시|http 모듈로 웹 서버 만들기|24.10.06 ~ 24.10.09 (1:06:20)|[4차시 들으러가기](https://github.com/getit-knu/Get-Node.js/blob/main/4%EC%B0%A8%EC%8B%9C/GETIT%205%EA%B8%B0%20SW%20Node%EA%B5%90%EC%9C%A1%204%EC%B0%A8%EC%8B%9C.pdf)|
-|5차시|express 웹 서버 만들기|24.11.01 ~ 24.11.05 (33:56)|[5차시 들으러가기]()|
+|4차시|http 모듈로 웹 서버 만들기|24.10.06 ~ 24.10.09 (1:06:20)|[4차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/4%EC%B0%A8%EC%8B%9C)|
 
 <br/>
 

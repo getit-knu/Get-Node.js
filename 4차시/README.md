@@ -217,3 +217,10 @@ if(cluster.isMaster){ // 마스터 프로세스일 경우
 👉 6기 노션 > SW과제제출 > Node.js > 해당 차시 > 본인이름 > 과제제출란
 
 👉 [6기 SW 과제제출 링크](https://www.notion.so/SW-8502eeef321b43e2ad13ece0f626be33)
+
+##### 강의 중 진행한 실습 노션에 업로드하기
+(총 2개의 html 파일과 7개의 js 파일들을 압축해서 Notion 페이지에 올려주세요!)
+
+👉 6기 노션 > SW과제제출 > Node.js > 해당 차시 > 본인이름 > 과제제출란
+
+👉 [6기 SW 과제제출 링크](https://www.notion.so/SW-8502eeef321b43e2ad13ece0f626be33)
