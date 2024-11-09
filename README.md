@@ -17,6 +17,8 @@
 |4차시|http 모듈로 웹 서버 만들기|24.10.06 ~ 24.10.09 (1:06:20)|[4차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/4%EC%B0%A8%EC%8B%9C)|
 |5차시|express 웹 서버 만들기|24.11.01 ~ 24.11.05 (33:56)|[5차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/5%EC%B0%A8%EC%8B%9C)|
 |6차시|Mysql 설치하기, Mysql 이해하기|24.11.06 ~ 24.11.10 (11:55, 56:00)|[6차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/6%EC%B0%A8%EC%8B%9C)|
+|7차시|Express로 SNS 서비스 만들기|24.11.11 ~ 24.11.13 (1:18:05)|[7차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/7%EC%B0%A8%EC%8B%9C)|
+
 
 <br/>
 
