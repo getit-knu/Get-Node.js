@@ -9,7 +9,7 @@
 
 ### 🎞️7차시 강의🎞️
 
-[![Video Label]([https://i9.ytimg.com/vi/4c_1rHztHH4/mqdefault.jpg?v=67a22a99&sqp=CNyLjb0G&rs=AOn4CLAXfQkQFing3Z5meGZ-7QFCfwF_vA)](https://www.youtube.com/watch?app=desktop&v=6BTZNc6qHcY&feature=youtu.be](https://youtu.be/4c_1rHztHH4))
+[![Video Label]([https://i9.ytimg.com/vi/4c_1rHztHH4/mqdefault.jpg?v=67a22a99&sqp=CNyLjb0G&rs=AOn4CLAXfQkQFing3Z5meGZ-7QFCfwF_vA)](https://youtu.be/4c_1rHztHH4]())
 
 👉위 이미지를 누르면 강의를 들을 수 있습니다.
 
