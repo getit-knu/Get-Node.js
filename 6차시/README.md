@@ -11,7 +11,7 @@
 
 ### 🎞️6차시 강의🎞️
 
-[![Video Label](https://i9.ytimg.com/vi/juBHnOQAGbA/mqdefault.jpg?v=67a1cfd8&sqp=CIiOjb0G&rs=AOn4CLBX9-q81RYNOuAb1sTCxzq9blm2tA)](https://youtu.be/HjHuMYfMpFQ)
+[![Video Label](https://i9.ytimg.com/vi/HjHuMYfMpFQ/mqdefault.jpg?v=67a21f1d&sqp=CNyLjb0G&rs=AOn4CLCzAXx0jBcptrjw_JsF0ewYtlIrpQ)](https://youtu.be/HjHuMYfMpFQ)
 
 [![Video Label](https://i9.ytimg.com/vi/XcvzxWWdcuY/mqdefault.jpg?v=67a22478&sqp=CIiOjb0G&rs=AOn4CLBwq2won5qo3HvRLPpkybW_ae3XAg)](https://youtu.be/XcvzxWWdcuY)
 
