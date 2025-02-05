@@ -8,7 +8,7 @@
 👉자료를 다운 받은 후 수강해주세요!
 
 ### 🎞️4차시 강의🎞️
-[![Video Label](http://img.youtube.com/vi/vYOBr20ITYM/0.jpg)](https://www.youtube.com/watch?v=XXExKn4O3GE)
+[![Video Label](https://i9.ytimg.com/vi_webp/XXExKn4O3GE/mqdefault.webp?v=67a18956&sqp=CIiOjb0G&rs=AOn4CLCLPfqVz3zPe7YoIth301sb9eIMxA)](https://www.youtube.com/watch?v=XXExKn4O3GE)
 
 👉위 이미지를 누르면 강의를 들을 수 있습니다.
 
