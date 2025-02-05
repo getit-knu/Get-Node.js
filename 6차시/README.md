@@ -11,9 +11,9 @@
 
 ### 🎞️6차시 강의🎞️
 
-[![Video Label](http://img.youtube.com/vi/t-frczEDS8I/0.jpg)](https://youtu.be/HjHuMYfMpFQ)
+[![Video Label](https://i9.ytimg.com/vi/juBHnOQAGbA/mqdefault.jpg?v=67a1cfd8&sqp=CIiOjb0G&rs=AOn4CLBX9-q81RYNOuAb1sTCxzq9blm2tA)](https://youtu.be/HjHuMYfMpFQ)
 
-[![Video Label](http://img.youtube.com/vi/WKGrgNTZWIM/0.jpg)](https://youtu.be/XcvzxWWdcuY)
+[![Video Label](https://i9.ytimg.com/vi/XcvzxWWdcuY/mqdefault.jpg?v=67a22478&sqp=CIiOjb0G&rs=AOn4CLBwq2won5qo3HvRLPpkybW_ae3XAg)](https://youtu.be/XcvzxWWdcuY)
 
 👉위 이미지를 누르면 강의를 들을 수 있습니다.
 
