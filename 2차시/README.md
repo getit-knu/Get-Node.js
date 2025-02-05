@@ -8,7 +8,7 @@
 👉자료를 다운 받은 후 수강해주세요!
 
 ### 🎞️2차시 강의🎞️
-[![Video Label](http://img.youtube.com/vi/oljeeWK4rOQ/0.jpg)](https://youtu.be/yXQ-9gMHZJU)
+[![Video Label](https://i9.ytimg.com/vi/yXQ-9gMHZJU/mqdefault.jpg?v=67a1926b&sqp=CIiOjb0G&rs=AOn4CLConZzt6Cux5yNW-kD5nBEN5o6IsQ)](https://youtu.be/yXQ-9gMHZJU)
 
 👉위 이미지를 누르면 강의를 들을 수 있습니다.
 
