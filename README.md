@@ -11,13 +11,13 @@
 
 |차시|제목|기간|들으러가기|
 |:---:|:---:|:---:|:---:|
-|1차시|개발환경 세팅|24.09.26 ~ 24.09.27 (23:59)|[1차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/1%EC%B0%A8%EC%8B%9C)|
-|2차시|JS 다시보기|24.09.28 ~ 24.10.01 (42:42)|[2차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/2%EC%B0%A8%EC%8B%9C)|
-|3차시|Node 기능 알아보기|24.10.02 ~ 24.10.05 (1:16:30)|[3차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/3%EC%B0%A8%EC%8B%9C)|
-|4차시|http 모듈로 웹 서버 만들기|24.10.06 ~ 24.10.09 (1:06:20)|[4차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/4%EC%B0%A8%EC%8B%9C)|
-|5차시|express 웹 서버 만들기|24.11.01 ~ 24.11.05 (33:56)|[5차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/5%EC%B0%A8%EC%8B%9C)|
-|6차시|Mysql 설치하기, Mysql 이해하기|24.11.06 ~ 24.11.10 (11:55, 56:00)|[6차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/6%EC%B0%A8%EC%8B%9C)|
-|7차시|Express로 SNS 서비스 만들기|24.11.11 ~ 24.11.13 (1:18:05)|[7차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/7%EC%B0%A8%EC%8B%9C)|
+|1차시|개발환경 세팅|25.04.27 ~ 25.04.29 (23:59)|[1차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/1%EC%B0%A8%EC%8B%9C)|
+|2차시|JS 다시보기|25.04.30 ~ 25.05.02 (42:42)|[2차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/2%EC%B0%A8%EC%8B%9C)|
+|3차시|Node 기능 알아보기|25.05.03 ~ 25.05.05 (1:16:30)|[3차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/3%EC%B0%A8%EC%8B%9C)|
+|4차시|http 모듈로 웹 서버 만들기|25.05.05 ~ 25.05.08 (1:06:20)|[4차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/4%EC%B0%A8%EC%8B%9C)|
+|5차시|express 웹 서버 만들기|25.05.06 ~ 25.05.10 (33:56)|[5차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/5%EC%B0%A8%EC%8B%9C)|
+|6차시|Mysql 설치하기, Mysql 이해하기|25.05.11 ~ 25.05.15 (11:55, 56:00)|[6차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/6%EC%B0%A8%EC%8B%9C)|
+|7차시|Express로 SNS 서비스 만들기|25.05.14 ~ 25.05.18 (1:18:05)|[7차시 들으러가기](https://github.com/getit-knu/Get-Node.js/tree/main/7%EC%B0%A8%EC%8B%9C)|
 
 
 <br/>
