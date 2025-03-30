@@ -23,6 +23,6 @@
 <br/>
 
 ### 🔥과제 제출하는 곳 
-👉 6기 노션 > SW과제제출 > Node.js > 해당 차시 > 본인이름 > 과제제출란
+👉 7기 노션 > SW과제제출 > Node.js > 해당 차시 > 본인이름 > 과제제출란
 
-👉 [6기 SW 과제제출 링크](https://www.notion.so/SW-8502eeef321b43e2ad13ece0f626be33)
+👉 [7기 SW 과제제출 링크](https://www.notion.so/SW-19098798aca681d5bbcdd78d9e63e387?pvs=4)
